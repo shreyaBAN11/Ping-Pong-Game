@@ -13,9 +13,6 @@ pip install opencv-python
 ```
 ```
 pip install numpy
-```
 
-### Below are some demo pictures</br>
-<img width="961" alt="pong" src="https://github.com/supremeashu/Ping-Pong-Game/assets/145740067/1e44efe3-4565-4bf1-97e3-9d5a2adfa145">
 
 
